@@ -1,0 +1,20 @@
+﻿PRAM Machine
+
+
+exe
+C#
+.cs
+D:\Materiały do nauki\II stopień - Informatyka\Algorytmy równoległe i rozproszone\pram wersja rozwojowa\pram wersja rozwojwa\PRAM Machine\obj\x86\Debug\
+PRAM_Machine
+none
+false
+DEBUG;TRACE
+
+5-190578753
+
+481257279949
+12-1381780322
+Gui\DisplayControl.xaml;Gui\MainWindow.xaml;Gui\MemoryCellView.xaml;Gui\ProcessorView.xaml;Gui\StatisticsDisplay.xaml;
+
+False
+
